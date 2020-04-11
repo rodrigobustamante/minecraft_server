@@ -1,0 +1,137 @@
+[21:30:48] [main/INFO]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 31.1.0, --fml.mcpVersion, 20200122.131323, --fml.mcVersion, 1.15.2, --fml.forgeGroup, net.minecraftforge]
+[21:30:48] [main/INFO]: ModLauncher 5.0.0-milestone.4+67+b1a340b starting: java version 1.8.0_212 by IcedTea
+[21:30:48] [main/INFO]: Added Lets Encrypt root certificates as additional trust
+[21:30:50] [main/INFO]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[21:31:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:31:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:31:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:31:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:31:03] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:31:03] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:31:04] [modloading-worker-1/INFO]: Forge mod loading, version 31.1.0, for MC 1.15.2 with MCP 20200122.131323
+[21:31:04] [modloading-worker-1/INFO]: MinecraftForge v31.1.0 Initialized
+[21:31:04] [Server thread/WARN]: Configuration file /data/config/journeymap-common.toml is not correct. Correcting
+[21:31:04] [Server thread/WARN]: Incorrect key admins was corrected from null to SimpleCommentedConfig:{}
+[21:31:04] [Server thread/WARN]: Incorrect key admins.opAccess was corrected from null to true
+[21:31:04] [Server thread/WARN]: Incorrect key admins.serverAdmins was corrected from null to [mysticdrew, 12341234132]
+[21:31:04] [Thread-1/INFO]: Loading JourneyMap Forge Configs
+[21:31:04] [Server thread/INFO]: Loading JourneyMap Forge Configs
+[21:31:04] [Thread-1/INFO]: Loading JourneyMap Forge Configs
+[21:31:04] [Thread-1/INFO]: Loading JourneyMap Forge Configs
+[21:31:04] [Thread-1/INFO]: Loading JourneyMap Forge Configs
+[21:31:05] [Server thread/INFO]: Dispatching synchronous work after COMMON_SETUP: 1 jobs
+[21:31:05] [Server thread/INFO]: Initializing Packet Registry
+[21:31:05] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21:31:05] [Server thread/INFO]: Synchronous work queue completed in 00:00:00.034
+[21:31:05] [Server thread/INFO]: Loading properties
+[21:31:05] [Server thread/INFO]: Default game type: SURVIVAL
+[21:31:05] [Server thread/INFO]: Generating keypair
+[21:31:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:31:05] [Server thread/INFO]: Using epoll channel type
+[21:31:06] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 31.1.0 Target: null
+[21:31:06] [Server thread/INFO]: Preparing level "world"
+[21:31:07] [Server thread/INFO]: Injecting existing registry data into this SERVER instance
+[21:31:07] [Server thread/INFO]: Reloading ResourceManager: Default, forge-1.15.2-31.1.0-universal.jar, journeymap-1.15.2-5.7.0beta1.jar
+[21:31:08] [Server thread/INFO]: Loaded 6 recipes
+[21:31:09] [Server thread/INFO]: Loaded 825 advancements
+[21:31:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:31:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:16] [Netty Epoll Server IO #1/INFO]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:31:33] [Server thread/INFO]: Preparing spawn area: 17%
+[21:31:33] [Server thread/INFO]: Preparing spawn area: 39%
+[21:31:34] [Server-Worker-1/INFO]: Preparing spawn area: 80%
+[21:31:34] [Server thread/INFO]: Preparing spawn area: 88%
+[21:31:35] [Server thread/INFO]: Preparing spawn area: 89%
+[21:31:35] [Server thread/INFO]: Preparing spawn area: 91%
+[21:31:36] [Server thread/INFO]: Preparing spawn area: 94%
+[21:31:36] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+[21:31:37] [Server thread/INFO]: Time elapsed: 25376 ms
+[21:31:37] [Server thread/INFO]: Done (30.442s)! For help, type "help"
+[21:31:37] [Server thread/INFO]: Starting remote control listener
+[21:31:37] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[21:31:37] [Server thread/INFO]: global (FirstLoaded) Setting config file to version "5.7.0dev": journeymap.server.global.config
+[21:31:37] [Server thread/INFO]: global (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.global.config
+[21:31:37] [Server thread/INFO]: default (FirstLoaded) Setting config file to version "5.7.0dev": journeymap.server.default.config
+[21:31:37] [Server thread/INFO]: default (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.default.config
+[21:31:37] [Server thread/INFO]: dim-1 (Initialized) Setting config file to version "5.7.0dev": journeymap.server.dim-1.config
+[21:31:37] [Server thread/INFO]: dim-1 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim-1.config
+[21:31:37] [Server thread/INFO]: dim0 (Initialized) Setting config file to version "5.7.0dev": journeymap.server.dim0.config
+[21:31:37] [Server thread/INFO]: dim0 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim0.config
+[21:31:37] [Server thread/INFO]: dim1 (Initialized) Setting config file to version "5.7.0dev": journeymap.server.dim1.config
+[21:31:37] [Server thread/INFO]: dim1 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim1.config
+[21:31:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:31:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:32:09] [User Authenticator #1/INFO]: UUID of player uhNxZ is 5b15b7c3-902f-4259-865f-b0d049aa68dd
+[21:32:09] [Server thread/INFO]: uhNxZ[/172.17.0.1:46644] logged in with entity id 204 at (-7.5, 87.0, 5.5)
+[21:32:09] [Server thread/INFO]: §euhNxZ joined the game§r
+[21:32:09] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@2466830c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[21:32:09] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@2fc7a706 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[21:32:21] [Server thread/INFO]: uhNxZ lost connection: Disconnected
+[21:32:21] [Server thread/INFO]: §euhNxZ left the game§r
+[21:35:42] [User Authenticator #2/INFO]: UUID of player uhNxZ is 5b15b7c3-902f-4259-865f-b0d049aa68dd
+[21:35:44] [Server thread/INFO]: uhNxZ[/172.17.0.1:46672] logged in with entity id 233 at (-7.5, 87.0, 5.5)
+[21:35:44] [Server thread/INFO]: §euhNxZ joined the game§r
+[21:35:44] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@2466830c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[21:35:44] [Netty Epoll Server IO #2/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@2fc7a706 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[21:35:45] [Server thread/ERROR]: Received empty payload on channel fml:handshake
+[21:37:10] [Server thread/INFO]: uhNxZ lost connection: Disconnected
+[21:37:10] [Server thread/INFO]: §euhNxZ left the game§r
+[21:39:10] [User Authenticator #3/INFO]: UUID of player uhNxZ is 5b15b7c3-902f-4259-865f-b0d049aa68dd
+[21:39:10] [Netty Epoll Server IO #0/INFO]: Dev Mode?
+[21:39:11] [Server thread/INFO]: uhNxZ[/172.17.0.1:46700] logged in with entity id 382 at (-7.5, 87.0, 5.5)
+[21:39:11] [Server thread/INFO]: §euhNxZ joined the game§r
+[21:39:11] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@2466830c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[21:39:11] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@2fc7a706 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[21:39:13] [Server thread/ERROR]: Received empty payload on channel fml:handshake
+[21:39:35] [Server thread/INFO]: uhNxZ lost connection: Disconnected
+[21:39:35] [Server thread/INFO]: §euhNxZ left the game§r
+[21:39:50] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[21:39:50] [Server thread/INFO]: §7§o[Rcon: Stopping the server]§r
+[21:39:50] [Server thread/INFO]: Stopping server
+[21:39:50] [Server thread/INFO]: Saving players
+[21:39:50] [Server thread/INFO]: Saving worlds
+[21:39:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:39:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:39:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
