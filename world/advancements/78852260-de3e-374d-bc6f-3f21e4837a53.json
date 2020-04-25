@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_mountains": "2020-04-14 22:41:02 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

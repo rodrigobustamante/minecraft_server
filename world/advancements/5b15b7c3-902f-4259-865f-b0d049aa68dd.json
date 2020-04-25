@@ -1,9 +1,28 @@
 {
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-12 00:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-04-12 00:38:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2020-04-11 20:22:50 +0000"
+      "minecraft:mountains": "2020-04-11 20:22:50 +0000",
+      "minecraft:wooded_mountains": "2020-04-12 00:38:10 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-04-12 00:39:03 +0000"
+    },
+    "done": true
   },
   "DataVersion": 2230
 }
