@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-04-26 06:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-18 01:00:25 +0000"
@@ -571,12 +577,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-04-26 01:12:25 +0000",
+      "minecraft:blaze": "2020-04-26 06:41:47 +0000",
       "minecraft:skeleton": "2020-04-19 19:07:06 +0000",
       "minecraft:zombie_pigman": "2020-04-21 03:23:31 +0000",
+      "minecraft:ravager": "2020-04-26 01:13:57 +0000",
       "minecraft:ghast": "2020-04-24 23:43:34 +0000",
+      "minecraft:vindicator": "2020-04-26 01:12:38 +0000",
       "minecraft:spider": "2020-04-18 01:01:49 +0000",
       "minecraft:creeper": "2020-04-22 03:58:50 +0000",
       "minecraft:slime": "2020-04-22 03:39:54 +0000",
+      "minecraft:wither_skeleton": "2020-04-26 06:43:38 +0000",
       "minecraft:enderman": "2020-04-22 03:17:59 +0000",
       "minecraft:zombie": "2020-04-18 01:04:11 +0000"
     },
@@ -591,6 +602,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2020-04-21 04:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2020-04-26 01:17:06 +0000"
     },
     "done": true
   },
@@ -663,6 +680,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-04-19 19:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-04-26 01:13:47 +0000"
     },
     "done": true
   },
@@ -747,6 +770,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-04-19 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-26 06:41:53 +0000"
     },
     "done": true
   },
@@ -933,6 +962,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2020-04-18 01:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2020-04-26 01:17:06 +0000"
     },
     "done": true
   },
@@ -1243,6 +1278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-04-26 00:01:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-04-21 00:59:14 +0000"
@@ -1345,6 +1386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-04-26 00:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-19 00:23:46 +0000"
@@ -1402,6 +1449,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2020-04-22 05:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-04-26 01:14:09 +0000"
     },
     "done": true
   },
@@ -1765,7 +1818,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2020-04-19 01:17:11 +0000",
-      "minecraft:cow": "2020-04-19 23:57:03 +0000"
+      "minecraft:cow": "2020-04-19 23:57:03 +0000",
+      "minecraft:bee": "2020-04-25 23:46:13 +0000"
     },
     "done": false
   },
@@ -1784,6 +1838,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-04-19 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2020-04-26 01:17:06 +0000"
     },
     "done": true
   },
@@ -1826,6 +1886,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-04-19 00:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-04-26 06:44:54 +0000"
     },
     "done": true
   },
@@ -2243,9 +2309,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-04-26 06:40:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-04-23 01:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-04-26 00:01:04 +0000"
     },
     "done": true
   },
@@ -2453,6 +2531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-26 06:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2020-04-24 23:44:51 +0000"
@@ -2486,6 +2570,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-19 01:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-04-26 06:41:53 +0000"
     },
     "done": true
   },
