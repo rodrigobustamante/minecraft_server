@@ -1,240 +1,103 @@
-[00:00:04] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Air'/58924, l='world', x=634.90, y=68.00, z=-351.72]
-[00:00:50] [Server thread/INFO]: <Supraknight> cuanta modernidad dios mio{
-[00:01:50] [Server thread/INFO]: <Supraknight> discord?
-[00:02:47] [Server thread/INFO]: <Supraknight> oye
-[00:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
-[00:02:52] [Server thread/INFO]: <Baaxii> al toque
-[00:02:57] [Server thread/INFO]: <Supraknight> muevo ese panal de ahi?
-[00:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2923ms or 58 ticks behind
-[00:03:08] [Server thread/INFO]: <Baaxii> noo
-[00:03:15] [Server thread/INFO]: <Baaxii> aun no se que hacer con eso jaja
-[00:03:21] [Server thread/INFO]: <Supraknight> tengo silk touch, te lo puedo pasar como bloque
-[00:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[00:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
-[00:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7246ms or 144 ticks behind
-[00:06:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[00:06:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5816ms or 116 ticks behind
-[00:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[00:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
-[00:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7256ms or 145 ticks behind
-[00:07:58] [Server thread/INFO]: <Baaxii> [name:"bamboo", x:202, y:67, z:2801]
-[00:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[00:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
-[00:09:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
-[00:10:56] [Server thread/INFO]: Baaxii lost connection: Disconnected
-[00:10:56] [Server thread/INFO]: §eBaaxii left the game§r
-[00:11:00] [Netty Epoll Server IO #0/INFO]: Dev Mode?
-[00:11:01] [Server thread/INFO]: Baaxii[/190.100.43.228:51061] logged in with entity id 64098 at (674.6036889195191, 75.43152384527073, -354.6320300635829)
-[00:11:01] [Server thread/INFO]: §eBaaxii joined the game§r
-[00:11:01] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[00:11:01] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[00:11:02] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[00:16:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[00:19:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[00:49:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
-[01:08:54] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:08:54] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:08:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
-[01:09:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19612ms or 392 ticks behind
-[01:09:31] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:09:31] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:09:31] [Server thread/INFO]: Baaxii has made the advancement §a[We Need to Go Deeper]§r
-[01:09:58] [Server thread/WARN]: Supraknight moved too quickly! 8.182757057076287,1.0,6.00748923631329
-[01:09:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2787ms or 55 ticks behind
-[01:10:14] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:10:14] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:10:36] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:10:36] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:10:37] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:10:37] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:10:48] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:10:48] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:10:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:11:35] [Server thread/INFO]: uhNxZ has made the advancement §a[Voluntary Exile]§r
-[01:13:47] [Server thread/INFO]: Supraknight has made the advancement §a[Voluntary Exile]§r
-[01:14:09] [Server thread/INFO]: uhNxZ has completed the challenge §5[Hero of the Village]§r
-[01:14:09] [Server thread/INFO]: Supraknight has completed the challenge §5[Hero of the Village]§r
-[01:19:54] [Server thread/INFO]: Baaxii lost connection: Timed out
-[01:19:54] [Server thread/INFO]: §eBaaxii left the game§r
-[01:19:54] [Server thread/WARN]: handleDisconnection() called twice
-[01:20:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[01:20:09] [Server thread/INFO]: uhNxZ lost connection: Timed out
-[01:20:09] [Server thread/INFO]: §euhNxZ left the game§r
-[01:20:09] [Server thread/WARN]: handleDisconnection() called twice
-[01:20:43] [Netty Epoll Server IO #0/INFO]: Dev Mode?
-[01:20:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@aba3c0e[id=<null>,name=uhNxZ,properties={},legacy=false] (/190.100.43.228:50483) lost connection: Disconnected
-[01:20:47] [Netty Epoll Server IO #1/INFO]: Dev Mode?
-[01:20:47] [Netty Epoll Server IO #0/INFO]: Dev Mode?
-[01:20:48] [Server thread/INFO]: Baaxii[/190.100.43.228:51450] logged in with entity id 87657 at (679.6466883459113, 71.02442408821369, -333.06531289031466)
-[01:20:48] [Server thread/INFO]: §eBaaxii joined the game§r
-[01:20:48] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:20:48] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:20:48] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[01:20:49] [Server thread/INFO]: uhNxZ[/190.100.43.228:50484] logged in with entity id 87795 at (670.4134538931593, 69.0, -294.46417352175206)
-[01:20:49] [Server thread/INFO]: §euhNxZ joined the game§r
-[01:20:49] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:20:49] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:20:50] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[01:20:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01:25:04] [Server thread/WARN]: Supraknight moved too quickly! 0.7164726360058467,0.0,-10.137079167008139
-[01:25:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[01:29:19] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:29:19] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:29:27] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:29:27] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:29:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:29:52] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:29:52] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:29:59] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[01:29:59] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[01:30:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[01:30:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[01:45:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01:47:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[01:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4543ms or 90 ticks behind
-[01:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01:49:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[01:49:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[01:49:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[01:50:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4910ms or 98 ticks behind
-[01:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7440ms or 148 ticks behind
-[01:51:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17018ms or 340 ticks behind
-[01:51:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10448ms or 208 ticks behind
-[01:51:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8980ms or 179 ticks behind
-[01:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7930ms or 158 ticks behind
-[01:52:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7447ms or 148 ticks behind
-[01:53:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9224ms or 184 ticks behind
-[01:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10441ms or 208 ticks behind
-[01:53:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10319ms or 206 ticks behind
-[01:54:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9351ms or 187 ticks behind
-[01:54:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9928ms or 198 ticks behind
-[01:55:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10787ms or 215 ticks behind
-[01:55:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11548ms or 230 ticks behind
-[01:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4317ms or 86 ticks behind
-[01:56:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01:57:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[01:58:19] [Server thread/INFO]: Baaxii lost connection: Disconnected
-[01:58:19] [Server thread/INFO]: §eBaaxii left the game§r
-[01:58:20] [Server thread/INFO]: uhNxZ lost connection: Disconnected
-[01:58:20] [Server thread/INFO]: §euhNxZ left the game§r
-[01:58:56] [Server thread/INFO]: Supraknight lost connection: Disconnected
-[01:58:56] [Server thread/INFO]: §eSupraknight left the game§r
-[02:00:34] [Netty Epoll Server IO #0/INFO]: Dev Mode?
-[02:00:36] [Server thread/INFO]: Supraknight[/181.42.41.19:14232] logged in with entity id 100721 at (659.7185610765786, 67.0, 174.90123927246736)
-[02:00:36] [Server thread/INFO]: §eSupraknight joined the game§r
-[02:00:36] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[02:00:36] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[02:00:37] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[02:00:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[02:03:29] [Server thread/WARN]: Keeping entity minecraft:skeleton that already exists with UUID 6a7f2ed4-9acb-490f-9c5b-18e1a1d91333
-[02:06:04] [Server thread/WARN]: Keeping entity minecraft:skeleton that already exists with UUID 6fb3810f-1a45-41d2-ada9-447bc614047c
-[02:13:52] [Server thread/WARN]: Keeping entity minecraft:skeleton that already exists with UUID 8d357e91-f740-46f2-8028-d9ad3285091e
-[02:42:24] [Server thread/INFO]: Supraknight lost connection: Disconnected
-[02:42:24] [Server thread/INFO]: §eSupraknight left the game§r
-[02:42:27] [Netty Epoll Server IO #1/INFO]: Dev Mode?
-[02:42:29] [Server thread/INFO]: Supraknight[/181.42.41.19:4102] logged in with entity id 105534 at (700.5174695785887, 10.0, 112.86754492412565)
-[02:42:29] [Server thread/INFO]: §eSupraknight joined the game§r
-[02:42:29] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[02:42:29] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[02:42:29] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[02:42:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[02:51:48] [Server thread/INFO]: Supraknight lost connection: Disconnected
-[02:51:48] [Server thread/INFO]: §eSupraknight left the game§r
-[04:36:07] [Netty Epoll Server IO #1/INFO]: Dev Mode?
-[04:36:09] [Server thread/INFO]: Supraknight[/181.42.41.19:4101] logged in with entity id 106788 at (700.6987823478661, 10.0, 112.30000001192093)
-[04:36:09] [Server thread/INFO]: §eSupraknight joined the game§r
-[04:36:09] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[04:36:09] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[04:36:10] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[04:36:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[04:57:33] [Server thread/WARN]: Keeping entity minecraft:skeleton that already exists with UUID 48149d8f-5257-4856-841e-f2e3394b51ba
-[05:29:26] [Server thread/WARN]: Keeping entity minecraft:skeleton that already exists with UUID 69e55eb8-cf38-4495-b006-407beb1c2d3b
-[05:57:47] [Server thread/WARN]: Keeping entity minecraft:skeleton that already exists with UUID ab21bd81-93ca-4a1d-9987-bbf98c5dc297
-[06:01:54] [Server thread/WARN]: Keeping entity minecraft:skeleton that already exists with UUID d45f6c48-2dbe-4c0b-b0a6-b6fc5d6b51d8
-[06:37:21] [Server thread/INFO]: Supraknight lost connection: Disconnected
-[06:37:21] [Server thread/INFO]: §eSupraknight left the game§r
-[06:37:53] [Netty Epoll Server IO #0/INFO]: Dev Mode?
-[06:37:54] [Server thread/INFO]: Supraknight[/181.42.41.19:4124] logged in with entity id 118539 at (610.3205505291875, 65.0, 161.7083510735482)
-[06:37:54] [Server thread/INFO]: §eSupraknight joined the game§r
-[06:37:54] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[06:37:54] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[06:37:56] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[06:37:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
-[06:38:07] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[06:38:07] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[06:40:51] [Server thread/INFO]: Supraknight has made the advancement §a[A Terrible Fortress]§r
-[06:41:53] [Server thread/INFO]: Supraknight has made the advancement §a[Into Fire]§r
-[07:04:39] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[07:04:39] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[07:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[07:04:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:13:41] [Server thread/INFO]: Supraknight lost connection: Disconnected
-[07:13:41] [Server thread/INFO]: §eSupraknight left the game§r
-[18:54:44] [Netty Epoll Server IO #0/INFO]: Dev Mode?
-[18:54:46] [Server thread/INFO]: uhNxZ[/190.100.43.228:50649] logged in with entity id 123640 at (668.299999974668, 75.0000002, -355.700000025332)
-[18:54:46] [Server thread/INFO]: §euhNxZ joined the game§r
-[18:54:46] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[18:54:46] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[18:54:47] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[18:55:27] [Netty Epoll Server IO #1/INFO]: Dev Mode?
-[18:55:28] [Server thread/INFO]: Baaxii[/190.100.43.228:49811] logged in with entity id 123946 at (665.299999974668, 75.0000002, -355.700000025332)
-[18:55:28] [Server thread/INFO]: §eBaaxii joined the game§r
-[18:55:28] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[18:55:28] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[18:55:30] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[18:58:03] [Server thread/INFO]: Baaxii has made the advancement §a[Hot Stuff]§r
-[19:03:31] [Server thread/INFO]: Baaxii lost connection: Disconnected
-[19:03:31] [Server thread/INFO]: §eBaaxii left the game§r
-[19:03:33] [Netty Epoll Server IO #1/INFO]: Dev Mode?
-[19:03:34] [Server thread/INFO]: Baaxii[/190.100.43.228:49978] logged in with entity id 125666 at (705.6623008463096, 79.0, -546.7740510448493)
-[19:03:34] [Server thread/INFO]: §eBaaxii joined the game§r
-[19:03:34] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[19:03:34] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[19:03:35] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[19:03:43] [Server thread/INFO]: Baaxii lost connection: Disconnected
-[19:03:43] [Server thread/INFO]: §eBaaxii left the game§r
-[19:04:14] [Netty Epoll Server IO #1/INFO]: Dev Mode?
-[19:04:15] [Server thread/INFO]: Baaxii[/190.100.43.228:50082] logged in with entity id 125891 at (705.6623008463096, 79.0, -546.7740510448493)
-[19:04:15] [Server thread/INFO]: §eBaaxii joined the game§r
-[19:04:15] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[19:04:15] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[19:04:16] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[19:12:30] [Netty Epoll Server IO #1/INFO]: Dev Mode?
-[19:12:32] [Server thread/INFO]: Supraknight[/181.42.41.19:4177] logged in with entity id 128443 at (699.8501541278989, 10.0, 113.63087476800871)
-[19:12:32] [Server thread/INFO]: §eSupraknight joined the game§r
-[19:12:32] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[19:12:32] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[19:12:33] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[19:12:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[19:15:43] [Server thread/INFO]: Baaxii has made the advancement §a[Enchanter]§r
-[19:20:46] [Server thread/INFO]: <uhNxZ> durmiending
-[19:22:34] [Server thread/INFO]: Supraknight lost connection: Disconnected
-[19:22:34] [Server thread/INFO]: §eSupraknight left the game§r
-[19:22:46] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
-[19:35:36] [Server thread/INFO]: Baaxii hit the ground too hard
-[19:35:43] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[19:35:43] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[19:35:48] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Iron Axe'/133186, l='world', x=653.70, y=70.00, z=-345.29]
-[19:41:43] [Server thread/INFO]: uhNxZ has made the advancement §a[Enchanter]§r
-[19:52:46] [Server thread/INFO]: Baaxii lost connection: Disconnected
-[19:52:46] [Server thread/INFO]: §eBaaxii left the game§r
-[19:52:49] [Server thread/INFO]: uhNxZ lost connection: Disconnected
-[19:52:49] [Server thread/INFO]: §euhNxZ left the game§r
-[21:57:03] [Netty Epoll Server IO #0/INFO]: Dev Mode?
-[21:57:05] [Server thread/INFO]: Supraknight[/181.42.41.19:4165] logged in with entity id 135983 at (699.8943827669711, 10.0, 115.60243959654422)
-[21:57:05] [Server thread/INFO]: §eSupraknight joined the game§r
-[21:57:05] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@74cdc995 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[21:57:05] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@ed7dda7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[21:57:06] [Server thread/ERROR]: Received empty payload on channel fml:handshake
-[21:57:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
-[22:07:01] [Server thread/INFO]: Supraknight lost connection: Disconnected
-[22:07:01] [Server thread/INFO]: §eSupraknight left the game§r
-[22:45:10] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
-[22:45:10] [Server thread/INFO]: §7§o[Rcon: Stopping the server]§r
-[22:45:10] [Server thread/INFO]: Stopping server
-[22:45:10] [Server thread/INFO]: Saving players
-[22:45:10] [Server thread/INFO]: Saving worlds
-[22:45:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:45:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:45:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:00:28] [Server thread/INFO]: <uhNxZ> teni más antorchas??
+[00:00:41] [Server thread/INFO]: <Supraknight> te deje ahi, hago ams
+[00:01:12] [Server thread/WARN]: Supraknight moved too quickly! 0.0,10.50944273740275,0.012358709111580879
+[00:04:52] [Server thread/INFO]: <uhNxZ> ty
+[00:04:58] [Server thread/INFO]: <Supraknight> atras hay ams
+[00:07:47] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6bdb55d1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:07:47] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@45a82e87 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[00:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[00:07:57] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6bdb55d1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:07:57] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@45a82e87 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[00:08:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:08:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13780ms or 275 ticks behind
+[00:13:10] [Server thread/INFO]: <Supraknight> que onda? xD
+[00:13:51] [Server thread/INFO]: <uhNxZ> se me rompió el pico xd
+[00:25:03] [Server thread/INFO]: <uhNxZ> era 35?
+[00:25:05] [Server thread/INFO]: <uhNxZ> o 30?
+[00:25:14] [Server thread/INFO]: <Supraknight> 35
+[00:25:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:25:26] [Server thread/INFO]: <Supraknight> y el tunel es de 3x3
+[00:28:02] [Server thread/INFO]: <Supraknight> te escucho xD
+[00:31:20] [Server thread/INFO]: <Supraknight> hay un monton de piedra lisa abajo
+[00:31:33] [Server thread/INFO]: <Supraknight> voy a buscar los materiales pa hacer los ascensores
+[00:31:37] [Server thread/INFO]: <uhNxZ> okaa
+[00:32:12] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6bdb55d1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:32:12] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@45a82e87 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[00:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:32:19] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6bdb55d1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[00:32:19] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@45a82e87 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[00:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:32:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4028ms or 80 ticks behind
+[00:36:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:42:26] [Server thread/INFO]: <uhNxZ> a dormir
+[00:42:39] [Server thread/INFO]: <Supraknight> tsino me banean xD
+[00:42:44] [Server thread/INFO]: <uhNxZ> zi
+[00:42:54] [Server thread/INFO]: <Supraknight> Baaxii
+[00:46:08] [Server thread/INFO]: <Supraknight> hice 3 stacks de rieles y me falto la mitad pa conectarnos por tren xD, asique ese sera un proyecto a largo plazo, tengo que arregalr la granja ahora
+[00:46:19] [Server thread/INFO]: <uhNxZ> yayaya
+[00:51:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[00:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:58:49] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Raw Beef'/31679, l='world', x=634.08, y=68.00, z=-334.59]
+[01:05:18] [Server thread/INFO]: Supraknight lost connection: Disconnected
+[01:05:18] [Server thread/INFO]: §eSupraknight left the game§r
+[01:16:20] [Server thread/INFO]: uhNxZ lost connection: Disconnected
+[01:16:20] [Server thread/INFO]: §euhNxZ left the game§r
+[01:17:22] [Server thread/INFO]: Baaxii lost connection: Disconnected
+[01:17:22] [Server thread/INFO]: §eBaaxii left the game§r
+[01:30:32] [Netty Epoll Server IO #1/INFO]: Dev Mode?
+[01:30:33] [Server thread/INFO]: Supraknight[/181.42.41.19:4192] logged in with entity id 36605 at (661.4041020804208, 67.0, 174.78389838627558)
+[01:30:33] [Server thread/INFO]: §eSupraknight joined the game§r
+[01:30:33] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6bdb55d1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[01:30:33] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@45a82e87 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[01:30:34] [Server thread/ERROR]: Received empty payload on channel fml:handshake
+[02:06:45] [Netty Epoll Server IO #1/INFO]: Dev Mode?
+[02:06:46] [Server thread/INFO]: uhNxZ[/190.100.43.228:57035] logged in with entity id 41332 at (674.3721170805393, 71.0, -351.73438410465724)
+[02:06:46] [Server thread/INFO]: §euhNxZ joined the game§r
+[02:06:46] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6bdb55d1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[02:06:46] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@45a82e87 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[02:06:46] [Server thread/ERROR]: Received empty payload on channel fml:handshake
+[02:07:27] [Netty Epoll Server IO #0/INFO]: Dev Mode?
+[02:07:28] [Server thread/INFO]: Baaxii[/190.100.43.228:49932] logged in with entity id 41946 at (668.0792095621883, 73.0, -344.9106437770095)
+[02:07:28] [Server thread/INFO]: §eBaaxii joined the game§r
+[02:07:28] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6bdb55d1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[02:07:28] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@45a82e87 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[02:07:29] [Server thread/ERROR]: Received empty payload on channel fml:handshake
+[02:11:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[02:17:22] [Server thread/INFO]: <Supraknight> tutito¡?
+[02:17:40] [Server thread/INFO]: <uhNxZ> durmiending
+[02:23:53] [Server thread/INFO]: uhNxZ was slain by Cave Spider
+[02:24:01] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@6bdb55d1 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[02:24:01] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@45a82e87 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[02:24:09] [Server thread/INFO]: <Supraknight> ohh, encontraste un mineshaft?
+[02:24:15] [Server thread/INFO]: <uhNxZ> yep
+[02:24:34] [Server thread/INFO]: <Supraknight> implemente esa wea que te dije yo, lo de las tumbas pa no perder las cosas xd
+[02:24:43] [Server thread/INFO]: <uhNxZ> te funca??
+[02:25:04] [Server thread/INFO]: <Supraknight> en mis partidas solo, me funcionaba re bien
+[02:25:11] [Server thread/INFO]: <Supraknight> y tambien jugaba el 15.2
+[02:25:12] [Server thread/INFO]: <uhNxZ> manda el link del mod
+[02:26:44] [Server thread/WARN]: uhNxZ moved too quickly! 6.189586308867433,-1.0,8.144287128990527
+[02:26:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[02:28:50] [Server thread/INFO]: <uhNxZ> tuto :c
+[02:29:12] [Server thread/INFO]: <Supraknight> te mande el link en el grupo de wasap
+[02:29:56] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Air'/49031, l='world', x=634.87, y=68.00, z=-351.13]
+[02:29:56] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Air'/49031, l='world', x=634.87, y=68.00, z=-351.13]
+[02:31:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02:42:04] [Server thread/INFO]: <uhNxZ> instalo el mod?
+[02:42:12] [Server thread/INFO]: <Supraknight> voh dale
+[02:42:13] [Server thread/INFO]: <uhNxZ> tendría que bajar el sv uns min eso si
+[02:42:29] [Server thread/INFO]: <uhNxZ> me avisan
+[02:42:39] [Server thread/INFO]: <Supraknight> me desconecto entonces
+[02:42:42] [Server thread/INFO]: Supraknight lost connection: Disconnected
+[02:42:42] [Server thread/INFO]: §eSupraknight left the game§r
+[02:43:08] [Server thread/INFO]: Baaxii lost connection: Disconnected
+[02:43:08] [Server thread/INFO]: §eBaaxii left the game§r
+[02:43:10] [Server thread/INFO]: uhNxZ lost connection: Disconnected
+[02:43:10] [Server thread/INFO]: §euhNxZ left the game§r
+[02:43:56] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[02:43:56] [Server thread/INFO]: §7§o[Rcon: Stopping the server]§r
+[02:43:56] [Server thread/INFO]: Stopping server
+[02:43:56] [Server thread/INFO]: Saving players
+[02:43:56] [Server thread/INFO]: Saving worlds
+[02:43:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[02:43:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:43:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
